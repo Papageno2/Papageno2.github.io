@@ -114,5 +114,5 @@ tag_archive:
   type: liquid
   path: /tags/
 
-# theme: jekyll-theme-minimal
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
+# theme: minimal-mistakes-jekyll
