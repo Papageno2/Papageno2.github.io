@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Papageno"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "A Poor Boy in Physics."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -114,4 +114,5 @@ tag_archive:
   type: liquid
   path: /tags/
 
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
