@@ -6,8 +6,10 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "Projects"
-    url: /tags/
-  - title: "Publications"
-    url: /tags/
+    url: /projects/
+  - title: "Publication"
+    url: /publication/
+  - title: "Reading"
+    url: /reading/
   - title: "About"
     url: /about/
