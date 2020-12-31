@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Papageno"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A Poor Boy in Physics."
+  bio    : "A poor boy in physics."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
