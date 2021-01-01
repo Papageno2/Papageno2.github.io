@@ -1,8 +1,6 @@
 main:
   - tiltle: "Blog"
     url: /blogs/
-  - title: "Projects"
-    url: /projects/
   - title: "Publication"
     url: /publication/
   - title: "Reading"
